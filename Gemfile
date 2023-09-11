@@ -79,4 +79,4 @@ end
 
 # gem "pdf-reader", "~> 2.9"
 
-gem "cssbundling-rails", "~> 1.1"
+gem "cssbundling-rails", "~> 1.2"
