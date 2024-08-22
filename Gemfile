@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 ruby "3.1.2"
-gem "rails", "~> 7.0.4"
+gem "rails", "~> 7.2.1"
 
 gem "after_party" # post-deployment tasks
 gem "amazing_print" # easier console reading
